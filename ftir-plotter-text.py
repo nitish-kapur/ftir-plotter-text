@@ -5,6 +5,9 @@ GitHub: [github.com/nitish-kapur](https://github.com/nitish-kapur)
 Licensed under GNU GPLv3
 """
 """
+    
+    This script was made as a part of a biofuel research project.
+    
     1. Plots and opens FTIR graph between transmission and wavenumber from .txt file.
     2. Lets the user choose the .txt file using a dialog box that opens in the current directory, i.e., where the script is stored.
     3. The script expects the data in the following format: 
